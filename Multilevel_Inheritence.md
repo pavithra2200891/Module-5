@@ -6,6 +6,7 @@ This Python project demonstrates the concept of **Multilevel Inheritance** to co
 
 To write a Python program that uses multilevel inheritance to get and display a person’s name, age, and id.
 
+
 ## 🧠 Algorithm
 
 1. **Parent Class**  

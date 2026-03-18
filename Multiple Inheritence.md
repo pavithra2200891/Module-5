@@ -6,6 +6,7 @@ This Python program demonstrates **multiple inheritance** by performing basic ar
 
 To write a Python program to calculate **Add, Sub & Multipication ** using **Multiple Inheritance**.
 
+
 ## 🧠 Algorithm
 
 1. **Define `Calculation1` class**

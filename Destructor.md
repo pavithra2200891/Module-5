@@ -9,6 +9,7 @@ The program defines a class `Demo` with:
 - A **constructor** `__init__` that initializes an instance variable and prints a message.
 - A **destructor** `__del__` that prints a message when the object is destroyed.
 
+
 ## 🧠 Algorithm
 
 1. Define a class named `Demo`.
